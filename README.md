@@ -1,4 +1,4 @@
-# liver_atlas
+# Liver Atlas Analysis
 
 <!-- TABLE OF CONTENTS -->
 <details>
